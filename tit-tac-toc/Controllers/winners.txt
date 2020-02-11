@@ -1,0 +1,2 @@
+﻿{"name":"player 1"}
+{"name":"player 2"}

@@ -1,0 +1,30 @@
+/* Provide sufficient contrast against white background */
+.row {
+    display: flex;
+    padding-bottom: 10px;
+    width: 105px;
+}
+
+.cell {
+    border-width: 0px;
+    border: none;
+    outline: none;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+
+td + td,
+th + th {
+    border-left: 1px solid grey;
+}
+
+tr + tr {
+    border-top: 1px solid grey;
+}

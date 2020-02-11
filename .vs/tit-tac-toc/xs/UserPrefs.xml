@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{14E0C417-4496-4A78-9969-09C0F9876A49}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tit-tac-toc/Controllers/EmptyTextFile.txt">
+    <Files>
+      <File FileName="tit-tac-toc/Controllers/winner.cs" Line="23" Column="43" />
+      <File FileName="tit-tac-toc/Program.cs" Line="15" Column="1" />
+      <File FileName="tit-tac-toc/Program.cs" Line="15" Column="1" />
+      <File FileName="tit-tac-toc/Winner.cs" Line="13" Column="10" />
+      <File FileName="tit-tac-toc/ClientApp/src/App.js" Line="101" Column="10" />
+      <File FileName="tit-tac-toc/appsettings.json" Line="1" Column="1" />
+      <File FileName="tit-tac-toc/Controllers/EmptyTextFile.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tit-tac-toc" expanded="True">
+            <Node name="tit-tac-toc" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="ClientApp" expanded="True">
+                <Node name="public" expanded="True" />
+                <Node name="src" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="EmptyTextFile.txt" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tit-tac-toc PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
